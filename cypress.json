@@ -1,0 +1,12 @@
+{
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "baseUrl": "http://localhost:8888/",
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "results/my-test-output.xml",
+      "toConsole": true
+    },    
+    "numTestsKeptInMemory": 20,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.82 Safari/537.36 Vivaldi/2.3.1440.37"
+}
