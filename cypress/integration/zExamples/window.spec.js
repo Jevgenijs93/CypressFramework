@@ -20,3 +20,4 @@ context('Window', () => {
     cy.title().should('include', 'Kitchen Sink')
   })
 })
+

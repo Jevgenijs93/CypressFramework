@@ -76,3 +76,4 @@ context('Cookies', () => {
     cy.getCookies().should('be.empty')
   })
 })
+

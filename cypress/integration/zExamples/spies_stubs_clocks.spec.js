@@ -93,3 +93,4 @@ context('Spies, Stubs, and Clock', () => {
       .should('have.text', '1489449610')
   })
 })
+

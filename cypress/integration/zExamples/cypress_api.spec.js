@@ -220,3 +220,4 @@ context('Cypress.spec', () => {
     cy.wrap(Cypress.spec).should('have.keys', ['name', 'relative', 'absolute'])
   })
 })
+

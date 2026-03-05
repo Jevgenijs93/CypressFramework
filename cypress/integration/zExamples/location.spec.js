@@ -30,3 +30,4 @@ context('Location', () => {
     cy.url().should('eq', 'https://example.cypress.io/commands/location')
   })
 })
+

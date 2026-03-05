@@ -279,3 +279,4 @@ context('Actions', () => {
     cy.get('#scrollable-both').scrollTo('center', { duration: 2000 })
   })
 })
+
