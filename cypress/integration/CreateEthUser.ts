@@ -6,7 +6,7 @@ describe('My Sixth Test', function () {
         cy.visit('http://localhost:8888/');
         cy.wait('@landingCall');
 
-        let password = "ee";
+        let password = "eee";
 
 
         let startPlayingButton = cy.get('input[type=checkbox].startPlayBtnInput').eq(0);
